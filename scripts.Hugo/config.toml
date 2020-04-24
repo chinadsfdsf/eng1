@@ -810,7 +810,7 @@ anchor = "smart"
   # used in layouts/partials/front.recent_posts.html
   enableFront    = true
   #title    = "民主救国阵线"
-  title    = " 2020EnglishVOA.video1 "
+  title    = " 2020EnglishVOA.video eng1 "
   subtitle = '''
 本网站在大陆可以直接浏览，无需VPN
 '''
